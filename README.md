@@ -1,4 +1,5 @@
 # website_weather
+LINK:  https://andreilucacel.github.io/website_weather/
 The weather website I created utilizes JavaScript to provide real-time weather information based on user input or geolocation.
 API Integration: The website leverages two APIs: one for geolocation and another for weather forecasting. The API_GEOLOCATION_URL fetches city coordinates, while the API_FORECAST_URL retrieves weather data based on those coordinates.
 
